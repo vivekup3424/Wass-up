@@ -1,0 +1,4 @@
+04:58 May 8 2023
+I am setting up the Auth at "/" path.
+I am removing index.tsx from app directory and adding index.tsx in (site) sub-directory.
+Hence this index.tsx would act as the root of the app folder.
